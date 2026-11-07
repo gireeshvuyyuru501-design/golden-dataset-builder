@@ -1,0 +1,10 @@
+{
+  "dataset": "SQuAD v1.1 validation",
+  "source": "https://rajpurkar.github.io/SQuAD-explorer/dataset/dev-v1.1.json",
+  "total_questions": 10570,
+  "sample_checked": 100,
+  "reference_sanity_exact_match": 1.0,
+  "reference_sanity_f1": 1.0,
+  "gemini_evaluated": false,
+  "note": "Reference sanity check only; no model responses were generated."
+}

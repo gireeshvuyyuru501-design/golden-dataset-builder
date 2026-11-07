@@ -1,0 +1,13 @@
+﻿.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+.env.*
+!.env.example
+*api_key*
+squad_validation.json
+evaluation_results.json
+
+check_models.py
+diagnose_gemini.py
