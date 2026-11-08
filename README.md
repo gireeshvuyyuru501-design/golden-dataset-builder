@@ -1,4 +1,4 @@
-﻿# Golden Dataset Builder
+# Golden Dataset Builder
 
 A Python-based QA dataset validation and evaluation project.
 
@@ -38,3 +38,32 @@ not yet completed successfully.
 - Error analysis
 - Model comparison
 - CI automation
+
+<!-- PORTFOLIO-OVERVIEW-START -->
+
+## Project overview
+
+Build and validate reference datasets for offline AI quality evaluation using SQuAD examples.
+
+### Technologies and concepts
+
+ - python
+ - ai testing
+ - quality assurance
+ - datasets
+ - squad
+
+### Repository information
+
+- **Category:** AI Quality Engineering / Software Testing
+- **Evaluation type:** Offline and/or synthetic fixtures, as documented in this repository
+- **Source code:** [GitHub repository](https://github.com/gireeshvuyyuru501-design/golden-dataset-builder.git)
+- **License:** MIT (subject to repository license file)
+
+### AI Quality Engineering portfolio
+
+This project is part of an 11-project portfolio covering evaluation datasets, structured-output validation, offline scoring, prompt regression, retrieval benchmarking, adversarial testing, agent tool calls, and quality monitoring.
+
+[Explore the integrated AI Quality Engineering Platform](https://github.com/gireeshvuyyuru501-design/ai-quality-engineering-platform)
+
+<!-- PORTFOLIO-OVERVIEW-END -->
